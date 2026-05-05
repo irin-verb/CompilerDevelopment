@@ -1,0 +1,14 @@
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\__study__\4_class\РазработкаКомпиляторов\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\symboltables\\compositesymbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:symboltables\\compositesymbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\symboltables\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:symboltables\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\filelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:filelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\tokens\\tokenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:tokens\\tokenfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\analyzer\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:analyzer\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\analyzer\\semanticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:analyzer\\semanticanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\lab2\\datatypes\\datatypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDA0049-F9AE-47A1-861E-56B11939AFC5}|Lab3.csproj|solutionrelative:datatypes\\datatypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SymbolTable.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\SymbolTables\\SymbolTable.cs",
+              "RelativeDocumentMoniker": "SymbolTables\\SymbolTable.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\SymbolTables\\SymbolTable.cs",
+              "RelativeToolTip": "SymbolTables\\SymbolTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Compiler.cs",
+              "RelativeDocumentMoniker": "Compiler.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Compiler.cs",
+              "RelativeToolTip": "Compiler.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:05:53.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenFactory.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Tokens\\TokenFactory.cs",
+              "RelativeDocumentMoniker": "Tokens\\TokenFactory.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Tokens\\TokenFactory.cs",
+              "RelativeToolTip": "Tokens\\TokenFactory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwIoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:49:17.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "ClassDiagram.cd",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\ClassDiagram.cd",
+              "RelativeToolTip": "ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-09T13:18:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SemanticAnalyzer.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Analyzer\\SemanticAnalyzer.cs",
+              "RelativeDocumentMoniker": "Analyzer\\SemanticAnalyzer.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Analyzer\\SemanticAnalyzer.cs",
+              "RelativeToolTip": "Analyzer\\SemanticAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:50:03.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTypeEnum.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\DataTypes\\DataTypeEnum.cs",
+              "RelativeDocumentMoniker": "DataTypes\\DataTypeEnum.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\DataTypes\\DataTypeEnum.cs",
+              "RelativeToolTip": "DataTypes\\DataTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:11:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompositeSymbol.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\SymbolTables\\CompositeSymbol.cs",
+              "RelativeDocumentMoniker": "SymbolTables\\CompositeSymbol.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\SymbolTables\\CompositeSymbol.cs",
+              "RelativeToolTip": "SymbolTables\\CompositeSymbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:50:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Runner.cs",
+              "RelativeDocumentMoniker": "Runner.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Runner.cs",
+              "RelativeToolTip": "Runner.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwIgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:31:09.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLogic.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\FileLogic.cs",
+              "RelativeDocumentMoniker": "FileLogic.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\FileLogic.cs",
+              "RelativeToolTip": "FileLogic.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:54:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LexicalAnalyzer.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Analyzer\\LexicalAnalyzer.cs",
+              "RelativeDocumentMoniker": "Analyzer\\LexicalAnalyzer.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Lab2\\Analyzer\\LexicalAnalyzer.cs",
+              "RelativeToolTip": "Analyzer\\LexicalAnalyzer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:49:04.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

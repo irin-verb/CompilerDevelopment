@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Interpr\\postCodeInterp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF46404-4B5D-433F-928C-5BC0136CF10D}|postCodeInterp.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\interpr\\postcodeinterp\\interpretator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF46404-4B5D-433F-928C-5BC0136CF10D}|postCodeInterp.csproj|solutionrelative:interpretator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF46404-4B5D-433F-928C-5BC0136CF10D}|postCodeInterp.csproj|c:\\__study__\\4_class\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\lab7\\interpr\\postcodeinterp\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF46404-4B5D-433F-928C-5BC0136CF10D}|postCodeInterp.csproj|solutionrelative:runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interpretator.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Interpr\\postCodeInterp\\Interpretator.cs",
+              "RelativeDocumentMoniker": "Interpretator.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Interpr\\postCodeInterp\\Interpretator.cs",
+              "RelativeToolTip": "Interpretator.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:12:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Interpr\\postCodeInterp\\Runner.cs",
+              "RelativeDocumentMoniker": "Runner.cs",
+              "ToolTip": "C:\\__study__\\4_class\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u0440\u043E\u0432\\Lab7\\Interpr\\postCodeInterp\\Runner.cs",
+              "RelativeToolTip": "Runner.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:46:38.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
